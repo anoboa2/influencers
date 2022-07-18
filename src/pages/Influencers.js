@@ -24,7 +24,7 @@ const Influencers = () => {
       description: 'This is the Paris itinerary',
       price: '9.99',
       currency: 'USD',
-      product_id: 'prod_M3gRlnAKzowhmD"'
+      product_id: 'prod_M3gRlnAKzowhmD'
     }
   ];
 
