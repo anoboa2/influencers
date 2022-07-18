@@ -10,7 +10,7 @@ const ProductCard = ({ product, onClick }) => {
     <Card>
       <h2>{name}</h2>
       <p>{description}</p>
-      <p>{price}</p>
+      <p>${price}</p>
       <Button text="Buy Now" onClick={onClick} />
     </Card>
   );
